@@ -489,7 +489,6 @@ PRODUCT_PACKAGES += \
     fastdormancy \
     shutdownlistener \
     QtiTetherService \
-    com.qualcomm.location \
     dpmserviceapp \
     qcrilmsgtunnel \
     colorservice \
